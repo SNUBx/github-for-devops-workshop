@@ -1,0 +1,6 @@
+git add testing.py                                                                                                                                                         
+git commit -m "new code"                                                                                                                                                   
+git push origin master                                                                                                                                                     
+git status                                                                                                                                                                 
+git branch                                                                                                                                                                 
+git switch dev    
