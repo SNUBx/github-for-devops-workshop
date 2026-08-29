@@ -1,0 +1,16 @@
+                                                                                                                                       
+git init                                                                                                                                                                   
+                                                                                   
+git status                                                                                                                                                                 
+git remote -v                                                                                                                                                              
+git push origin master                                                                                                                                                     
+git fetch                                                                                                                                                                  
+git status                                                                                                                                                                 
+git add testing.py                                                                                                                                                         
+git status                                                                                                                                                                 
+git commit -m "adding "                                                                                                                                                    
+git status                                                                                                                                                                 
+git fetch                                                                                                                                                                  
+git pull origin master                                                                                                                                                     
+git fetch                                                                                                                                                                  
+git branch 
